@@ -3,10 +3,8 @@
 ## 🚀 Automation Tester | SDET | QA Engineer
 
 I am an Automation Tester with 3+ years of experience in building scalable test automation frameworks for Web, API, and POS applications.
-
 I specialize in Selenium, Playwright, Java, and API automation, and I am passionate about improving software quality through efficient and reliable automation solutions.
 
----
 
 ## 🧠 Skills & Tools
 
@@ -47,11 +45,8 @@ I specialize in Selenium, Playwright, Java, and API automation, and I am passion
 ## 🤖 Current Focus
 
 - Building Advanced Playwright Framework
-- Creating AI-Powered QA Assistant (TestMate.AI)
+- Creating AI-Powered QA Assistant
 - Improving CI/CD Automation
-
-
-
 
 
  Connect with me
