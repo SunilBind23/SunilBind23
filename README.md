@@ -38,7 +38,7 @@ I specialize in Selenium, Playwright, Java, and API automation, and I am passion
 
 ## 💼 Experience
 
-- 3+ years in Automation Testing
+- 2+ years in Automation Testing
 - Worked on E-commerce and POS Applications
 - Experience in Web, API, and End-to-End Testing
 
@@ -51,7 +51,7 @@ I specialize in Selenium, Playwright, Java, and API automation, and I am passion
 
  Connect with me
 
-- LinkedIn: https://linkdin.com/in/SunilBind23
+- LinkedIn: https://linkdin.com/in/sunil-bind23
 - Email: bindsunil9336@gmail.com
 
 
