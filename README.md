@@ -2,7 +2,7 @@
 
 ## 🚀 Automation Tester | SDET | QA Engineer
 
-I am an Automation Tester with 3+ years of experience in building scalable test automation frameworks for Web, API, and POS applications.
+I am an Automation Tester with 2+ years of experience in building scalable test automation frameworks for Web, API, and POS applications.
 I specialize in Selenium, Playwright, Java, and API automation, and I am passionate about improving software quality through efficient and reliable automation solutions.
 
 
