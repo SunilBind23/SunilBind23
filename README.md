@@ -51,7 +51,7 @@ I specialize in Selenium, Playwright, Java, and API automation, and I am passion
 
  Connect with me
 
-- LinkedIn: https://linkdin.com/in/sunil-bind23
+- LinkedIn: https://www.linkedin.com/in/sunil-bind23
 - Email: bindsunil9336@gmail.com
 
 
