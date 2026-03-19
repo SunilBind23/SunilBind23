@@ -25,7 +25,7 @@ I specialize in designing **robust test architectures**, improving test efficien
 * Selenium WebDriver
 * Playwright
 * Appium (Mobile Automation)
-* TestNG / JUnit
+* TestNG 
 
 ### 🔹 Programming
 
@@ -46,8 +46,7 @@ I specialize in designing **robust test architectures**, improving test efficien
 ### 🔹 DevOps & Tools
 
 * Jenkins
-* GitHub Actions
-* Maven / Gradle
+* Maven 
 * Git / GitHub
 
 ### 🔹 Other Skills
@@ -59,11 +58,11 @@ I specialize in designing **robust test architectures**, improving test efficien
 
 ## 📈 Experience Highlights
 
-* ✅ Built multiple **automation frameworks from scratch**
-* ✅ Reduced manual testing effort through automation
-* ✅ Worked on **E-commerce & POS systems** with real-world scenarios
-* ✅ Experience in **UI, API, and End-to-End testing**
-* ✅ Strong understanding of **test design, debugging, and failure analysis**
+*  Built multiple **automation frameworks from scratch**
+*  Reduced manual testing effort through automation
+*  Worked on **E-commerce & POS systems** with real-world scenarios
+*  Experience in **UI, API, and End-to-End testing**
+*  Strong understanding of **test design, debugging, and failure analysis**
 
 ---
 
