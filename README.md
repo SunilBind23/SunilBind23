@@ -2,7 +2,7 @@
 
 ## 🚀 SDET | Automation Engineer | Problem Solver
 
-I am a results-driven Automation Tester with **2+ years of experience** in building scalable, maintainable, and production-ready automation frameworks for **Web, API, and Mobile applications**.
+I am a results-driven Automation Tester with **3+ years of experience** in building scalable, maintainable, and production-ready automation frameworks for **Web, API, and Mobile applications**.
 
 I specialize in designing **robust test architectures**, improving test efficiency, and integrating automation into CI/CD pipelines to accelerate release cycles.
 
